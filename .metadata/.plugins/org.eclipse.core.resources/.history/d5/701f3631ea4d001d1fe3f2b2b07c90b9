@@ -1,0 +1,27 @@
+package learningS4;
+
+public class array1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		4.1 Declare and Creating Array in Java
+		int[] kumpulanAngka = {1, 2, 3, 4, 5};
+		int[] kumpulanAngka1 = new int[10];
+		String kumpulanString[] = {"Car", "Pesawat", "Tank"};
+		
+//		4.1.1 Accessing Array
+//		System.out.println(kumpulanAngka[0]);
+//		System.out.println(kumpulanString[1]);
+		
+//		4.2 Array Size
+//		System.out.println(kumpulanAngka.length);
+//		System.out.println(kumpulanString.length);
+		
+//		4.3 Processing Array
+		System.out.println(kumpulanAngka[0] + kumpulanAngka[1]);
+		System.out.println(kumpulanString[1] + kumpulanString[2]);
+		
+
+	}
+
+}

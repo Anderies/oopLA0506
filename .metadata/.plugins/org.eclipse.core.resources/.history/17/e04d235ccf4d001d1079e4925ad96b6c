@@ -1,0 +1,69 @@
+package prepS4;
+
+import java.util.Scanner;
+
+public class array1 {
+
+	public static void main(String[] args) {
+		
+//		4.1 Declare and creating an array in java
+		String backpack[] = {"Shotgun", "Assault Riffle", "Sniper"};
+		String zombies[] = {"Close-range zombie", "Mid-range Zombie", "Long-range Zombie"};
+		int numbersZombiesHate[] = {4, 90, 70, 123, 12, 4, 561, 1};
+		System.out.println(backpack[1]);
+		
+//		4.2 Array Size and Default Values
+		System.out.println(backpack.length);
+		
+		
+		// TODO Auto-generated method stub
+//		double[] myList = new double[10];
+//		
+//		Scanner input = new Scanner(System.in);
+//		System.out.println("Enter " + myList.length + " Values : ");
+//		for(int i = 0; i < myList.length; i++) {
+//			myList[i] = input.nextDouble();
+//		}
+//		
+//		for (int i = 0; i < myList.length; i++) {
+//			System.out.print(myList[i] + " ");
+//		}
+		
+// 		the problem is to read 100 numbers
+//		get average of these number, and find the number of items greater
+//		than the average. to be flexible for handling any number of
+//		inputs, we will let the user enter the numbers of inputs,
+//		rather than fixing it to 100
+		
+		
+//		Scanner input = new Scanner(System.in);
+//		System.out.println("Enter the number of times: ");
+//		
+//		int n = input.nextInt();
+//		
+//		double[] numbers = new double[n];
+//		double sum = 0;
+//		
+//		System.out.println("Enter the numbers: ");
+//		
+//		for(int i = 0;i<n;i++) {
+//			numbers[i] = input.nextDouble();
+//			sum += numbers[i];
+//		}
+//		
+//		double average = sum / n;
+//		
+//		int count = 0;
+//		
+//		for(int i = 0;i < n; i++) {
+//			if(numbers[i] > average) {
+//				count++;
+//			}
+//		}
+//		
+//		System.out.println("Average is " + average);
+//		System.out.println("Number of elements above the average is " + count);
+		
+	}
+
+}

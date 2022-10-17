@@ -1,0 +1,18 @@
+package prepS4;
+
+import java.util.Scanner;
+
+public class array1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double[] myList = new double[10];
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter " + myList.length + "Values : ");
+		for(int i = 0; i < myList.length; i++) {
+			myList[i] = input.nextDouble();
+		}
+	}
+
+}

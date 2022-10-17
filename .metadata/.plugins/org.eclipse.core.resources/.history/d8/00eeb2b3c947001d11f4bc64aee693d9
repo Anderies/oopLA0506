@@ -1,0 +1,22 @@
+package LearningSession3;
+
+// Class 1
+// Helper Class
+class Helper{
+	
+//	Static Method
+	public static int sum(int a, int b) {
+//		Simply returning the sum
+		return a+b;
+	}
+}
+
+public class staticNonStatic1 {
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+package prepS4;
+
+import java.util.ArrayList;
+
+public class arrayList1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+	
+		
+		ArrayList fruitList = new ArrayList();
+		fruitList.add("Mango");
+		fruitList.add("Mantap");
+		
+		System.out.println(fruitList);
+	}
+
+}
