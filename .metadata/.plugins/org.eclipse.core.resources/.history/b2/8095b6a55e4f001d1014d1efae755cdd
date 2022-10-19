@@ -1,0 +1,19 @@
+package learningSession4;
+
+import java.util.ArrayList;
+
+public class arraylist1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		Deklarasi ArrayList
+		ArrayList<String> cars = new ArrayList<String>();
+		
+		ArrayList cars2 = new ArrayList();
+		
+		cars2.add("mantap");
+		
+		System.out.println(cars2);
+	}
+
+}
