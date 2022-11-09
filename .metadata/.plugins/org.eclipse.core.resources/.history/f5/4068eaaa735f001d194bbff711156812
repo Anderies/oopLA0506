@@ -1,0 +1,10 @@
+package LearningS7overriding;
+
+public class overriding2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

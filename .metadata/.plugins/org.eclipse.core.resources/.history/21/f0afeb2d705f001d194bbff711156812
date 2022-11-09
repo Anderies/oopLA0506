@@ -1,0 +1,19 @@
+package LearningS7overriding;
+
+class parent {
+	private void m1() {
+		System.out.println("From parent m1()");
+	}
+	protected void m2() {
+		System.out.println("From parent m2()");
+	}
+}
+
+public class overriding1 extends parent {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World");
+	}
+
+}

@@ -1,0 +1,50 @@
+package LearningS7;
+
+//Java code to show use of super keyword with variables
+//Base class vehicle
+class Vehicle {
+	int maxSpeed = 120;
+}
+
+//sub class Car extending vehicle
+class Car extends Vehicle {
+	int maxSpeed = 180;
+
+	void display() {
+		// print maxSpeed of base class (vehicle)
+		System.out.println("Maximum Speed: " + super.maxSpeed);
+	}
+
+}
+
+//Java program to show use of super with methods
+
+//superclass Person
+class Person2 {
+	void message() {
+		System.out.println("This is person class\n");
+	}
+}
+
+//subclass Student
+class Student extends Person2 {
+	void message() {
+		System.out.println("This is student class");
+	}
+
+	void display() {
+		message();
+		super.message();
+	}
+}
+
+//Driver Program
+public class TestSuper {
+	public static void main(String[] args) {
+		Car small = new Car();
+		small.display();
+
+		Student s = new Student();
+		s.display();
+	}
+}

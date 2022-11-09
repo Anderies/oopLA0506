@@ -1,0 +1,32 @@
+package LearningS7La05;
+
+class Heroes {
+	int attack = 10;
+	public void Status() {
+		System.out.println("I Have Agility, Health Point and Intelligent");
+	}
+}
+
+class Tank extends Heroes {
+//	public void Status() {
+//		System.out.println();
+//	}
+}
+
+class Mage extends Heroes{
+	
+}
+
+
+public class inheritance {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Tank t = new Tank();
+		System.out.println("Damage: " + t.attack);
+		
+		Mage m = new Mage();
+		System.out.println("Damage: " + m.attack);
+	}
+
+}

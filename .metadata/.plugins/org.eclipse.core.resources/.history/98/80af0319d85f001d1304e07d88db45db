@@ -1,0 +1,24 @@
+package LearningS7La05;
+
+class Heroes {
+	public void Status(double i) {
+		System.out.println("I Have Agility, Health Point and Intelligent");
+	}
+}
+
+class Tank extends Heroes {
+//	public void Status() {
+//		System.out.println();
+//	}
+}
+
+
+public class inheritance {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Tank t = new Tank();
+		t.Status(10);
+	}
+
+}

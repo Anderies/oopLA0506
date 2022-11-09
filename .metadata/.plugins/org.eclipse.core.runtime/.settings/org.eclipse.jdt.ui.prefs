@@ -4,6 +4,7 @@ content_assist_number_of_computers=13
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
+markOccurrences=false
 org.eclipse.jdt.ui.formatterprofiles.version=22
 spelling_locale_initialized=true
 typefilter_migrated_2=true

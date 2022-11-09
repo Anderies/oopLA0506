@@ -1,0 +1,78 @@
+package LearningS7overriding;
+
+class Persona {
+	String nama;
+	String address;
+	String phoneNumber;
+	String emailAddress;
+
+	Persona(String nama, String address, String phoneNumber, String emailAddress) {
+		this.nama = nama;
+		this.address = address;
+		this.phoneNumber = phoneNumber;
+		this.emailAddress = emailAddress;
+	}
+
+	public String toString() {
+		return "Nama " + this.nama + "\naddress: " + this.address 
+				+ " \nphone_number: " + this.phoneNumber + " \nemail_address: " + this.emailAddress;
+	}
+}
+
+class Murid extends Persona {
+	final String status;
+	
+	Murid(String nama, String address, String phoneNumber, String emailAddress, String status) {
+		super(nama, address, phoneNumber, emailAddress);
+		this.status = status;
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	
+	public String toString() {
+		return super.toString() + "Status: " + this.status;
+	}
+	
+	
+
+}
+
+class Pegawai extends Persona {
+	Pegawai(String nama, String address, String phoneNumber, String emailAddress) {
+		super(nama, address, phoneNumber, emailAddress);
+		// TODO Auto-generated constructor stub
+	}
+	String office;
+	String salary;
+	String dateHired;
+	
+}
+
+class Employee {
+
+}
+
+class Dosen extends Employee {
+	String officeHours;
+	String jabatanAkademik;
+}
+
+class Staff extends Employee {
+	String title;
+}
+
+public class soal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello Person");
+		Persona p = new Persona("Anderies", "Jln Anggrek No.1", "08111900639", "ndreznotanto@gmail.com");
+		System.out.println(p.toString());
+		
+		System.out.println("\nHello Murid");
+		Murid m = new Murid("Anderies", "Jln Anggrek No.1", "08111900639", "ndreznotanto@gmail.com", "Freshman");
+
+	}
+
+}

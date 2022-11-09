@@ -6,7 +6,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="person"/>
 		<list key="findhistory">
+			<item value="Person"/>
+			<item value="getRadius"/>
 			<item value="math"/>
 			<item value="random"/>
 		</list>
