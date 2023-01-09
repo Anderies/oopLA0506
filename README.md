@@ -14,3 +14,6 @@ Berisi Matakuliah dokumentasi kode yang terjadi dalam kelas LA05/LA06 Object Ori
 11. Session 11 - Java Databasae Programming (JDBC)
 12. Session 12 - Exception Handling
 
+Bisa cek artikel disini step by step cara load driver dan JavaFX (untuk LearningS11 dan beberapa project lain)
+link : https://ndreznotanto.medium.com/how-to-load-jdbc-driver-and-javafx-sdk-on-eclipse-ide-c7f93257776
+
