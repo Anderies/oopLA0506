@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="learningS5.Circle"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="javafx.scene.Group"/>
+    <fullyQualifiedTypeName name="javafx.scene.image.Image"/>
+    <fullyQualifiedTypeName name="javafx.scene.input.KeyCombination"/>
+    <fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
+    <fullyQualifiedTypeName name="javafx.scene.text.Text"/>
+    <fullyQualifiedTypeName name="javafx.scene.text.Font"/>
+    <fullyQualifiedTypeName name="javafx.scene.shape.Line"/>
+    <fullyQualifiedTypeName name="javafx.scene.shape.Rectangle"/>
+    <fullyQualifiedTypeName name="javafx.fxml.FXMLLoader"/>
+    <fullyQualifiedTypeName name="javafx.scene.Parent"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.BorderPane"/>
+    <fullyQualifiedTypeName name="javafx.fxml.FXML"/>
+    <fullyQualifiedTypeName name="javafx.scene.shape.Circle"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.HBox"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.VBox"/>
+    <fullyQualifiedTypeName name="javafx.scene.Scene"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="javafx.application.Application"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Label"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 </qualifiedTypeNameHistroy>

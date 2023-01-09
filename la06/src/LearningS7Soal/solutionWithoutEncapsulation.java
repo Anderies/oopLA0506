@@ -101,7 +101,7 @@ public class solutionWithoutEncapsulation {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Objek Person");
+		System.out.println("Hello Objek Persona");
 		Persona persona = new Persona("Anderies", "Jln Anggrek No.1", "08111900639", "ndreznotanto@gmail.com");
 		System.out.println(persona.toString());
 		System.out.println("=======================");

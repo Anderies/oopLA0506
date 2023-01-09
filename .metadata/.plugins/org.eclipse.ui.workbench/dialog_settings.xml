@@ -2,4 +2,10 @@
 <section name="Workbench">
 	<section name="ImportExportAction">
 	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.fx.ide.fxml.wizard1"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.fx.ide"/>
+		</list>
+	</section>
 </section>

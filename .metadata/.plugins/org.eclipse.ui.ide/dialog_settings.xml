@@ -2,15 +2,25 @@
 <section name="Workbench">
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
-		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
-		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="false"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming\class\Jawaban Ujian\bin"/>
+			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming\class\Jawaban Ujian"/>
+			<item value="D:\java_project"/>
+			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming"/>
 			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming\AssignmentLA05\Tugas_Java_GUI-main\Tugas_GUI"/>
 			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming\AssignmentLA05\Tugas_Java_GUI-main"/>
 			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming\AssignmentLA06\TugasKelompokOOP-main"/>
 			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming\TugasMahasiswa\OOP-Binus-master"/>
 			<item value="D:\[TEACHING] NGAJAR BINUS\Object Oriented Programming\class"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.fx.ide.jdt.ui.javafx"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.fx.ide"/>
 		</list>
 	</section>
 </section>
